@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Community Board
 
-Submitted by: **Your Name Here**
+Submitted by: GwanYong Park
 
-This web app: **insert description**
+This web app: Displays restaurants in my community, along with their description and link to the menu.
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
